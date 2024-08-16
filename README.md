@@ -19,7 +19,6 @@
     </ul>
     <h1>Lenguajes que Manejo</h1>
     <ul>
-      <li>Figma</li>
       <li>JavaScript </li>
       <li>Phyton</li>
       <li>PHP</li>
