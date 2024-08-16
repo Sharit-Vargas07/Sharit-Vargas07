@@ -1,8 +1,20 @@
 <header align="center">
   <h1 align="center">¡Hola! Soy Sharit, una apasionada desarrolladora de software.</h1>
   <p align="center" >Explora mis proyectos y colaboremos juntos.</p>
-  ![Banner linkedin moderno bold llamativo con foto verde](https://github.com/user-attachments/assets/2ca191dd-8658-47fe-ac70-7cfd429d190e)
+  <img src="https://github.com/user-attachments/assets/6755a96f-767f-4cfe-8457-4bb284606ad8">
 </header>
+
+<body>
+  <div>
+    <h1>Sobre Mí</h1>
+    <ul>
+      <li>Desarrolladora Web</li>
+      <li>Desarrolladora Movil</li>
+      <li>Diseñadora I¿</li>
+    </ul>
+    
+  </div>
+</body>
 
 <!--
 **Sharit-Vargas07/Sharit-Vargas07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
