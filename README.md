@@ -1,7 +1,7 @@
 <header align="center">
   <h1 align="center">¡Hola! Soy Sharit, una apasionada desarrolladora de software.</h1>
   <p align="center" >Explora mis proyectos y colaboremos juntos.</p>
-  
+  ![Banner linkedin moderno bold llamativo con foto verde](https://github.com/user-attachments/assets/2ca191dd-8658-47fe-ac70-7cfd429d190e)
 </header>
 
 <!--
