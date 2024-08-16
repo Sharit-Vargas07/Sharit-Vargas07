@@ -8,9 +8,12 @@
   <div>
     <h1>Sobre Mí</h1>
     <ul>
-      <li>Desarrolladora Web</li>
-      <li>Desarrolladora Movil</li>
-      <li>Diseñadora I¿</li>
+      <li>Diseño de Mockups 📍</li>
+      <li>Planteamiento de Requerimientos 📋</li>
+      <li>Creación de Base de Datos 🗃️</li>
+      <li>Desarrollo de API Rest 👩‍💻</li>
+      <li>Desarrollo de Interfaces 💻</li>
+      <li>Desarrollo de App Moviles📱</li>
     </ul>
     
   </div>
