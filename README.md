@@ -1,4 +1,4 @@
-!Hola, soy Sharit Vargas!
+*¡Hola, soy Sharit Vargas!*
 
 <!--
 **Sharit-Vargas07/Sharit-Vargas07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
