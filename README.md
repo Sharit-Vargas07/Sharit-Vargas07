@@ -1,4 +1,8 @@
-*¡Hola, soy Sharit Vargas!*
+<header align="center">
+  <h1 align="center">¡Hola! Soy Sharit, una apasionada desarrolladora de software.</h1>
+  <p align="center" >Explora mis proyectos y colaboremos juntos.</p>
+  
+</header>
 
 <!--
 **Sharit-Vargas07/Sharit-Vargas07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
