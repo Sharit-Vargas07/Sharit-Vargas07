@@ -6,7 +6,7 @@
 
 <body>
   <div>
-    <h1>Sobre Mí</h1>
+    <h1>Habilidades</h1>
     <ul>
       <li>Diseño de Mockups 📍</li>
       <li>Planteamiento de Requerimientos 📋</li>
