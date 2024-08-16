@@ -6,6 +6,9 @@
 
 <body>
   <div>
+    <h1>Sobre Mí</h1>
+    <p>Hola, soy Sharit Daniela Vargas Almario, una apasionada estudiante de Análisis y Desarrollo de Software. Mi entusiasmo por la programación me impulsa a aprender y explorar nuevas tecnologías todos los días. Estoy comprometida con el desarrollo de soluciones innovadoras y en constante búsqueda de desafíos que me permitan crecer profesionalmente y expandir mis conocimientos.</p>
+    <hr/>
     <h1>Habilidades</h1>
     <ul>
       <li>Diseño de Mockups 📍</li>
@@ -14,7 +17,16 @@
       <li>Desarrollo Aplicativos Web 💻</li>
       <li>Desarrollo Aplicativos Moviles📱</li>
     </ul>
-    
+    <h1>Lenguajes que Manejo</h1>
+    <ul>
+      <li>Figma</li>
+      <li>JavaScript </li>
+      <li>Phyton</li>
+      <li>PHP</li>
+      <li>SQL</li>
+      <li>HTML</li>
+      <li>Kotlin</li>
+    </ul>
   </div>
 </body>
 
