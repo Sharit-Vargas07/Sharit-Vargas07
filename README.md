@@ -17,14 +17,24 @@
       <li>Desarrollo Aplicativos Web 💻</li>
       <li>Desarrollo Aplicativos Moviles📱</li>
     </ul>
-    <h1>Lenguajes que Manejo</h1>
+    <h1>Lenguajes: 👩‍💻</h1>
     <ul>
       <li>JavaScript </li>
       <li>Phyton</li>
       <li>PHP</li>
       <li>SQL</li>
       <li>HTML</li>
+      <li>CSS</li>
       <li>Kotlin</li>
+    </ul>
+    <h2>Frameworks:</h2>
+     <ul>
+      <li>React JS</li>
+      <li>Node JS</li>
+      <li>React-Native </li>
+      <li>Tailwind CSS</li>
+      <li>Boostrap</li>
+      <li>Laravel</li>
     </ul>
   </div>
 </body>
