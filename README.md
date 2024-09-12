@@ -1,4 +1,5 @@
-<header align="center">
+<main background="#43257e">
+  <header align="center">
   <h1 align="center">¡Hola! Soy Sharit, una apasionada desarrolladora de software.</h1>
   <p align="center" >Explora mis proyectos y colaboremos juntos.</p>
   <img src="https://github.com/user-attachments/assets/6755a96f-767f-4cfe-8457-4bb284606ad8">
@@ -17,7 +18,8 @@
       <li>Desarrollo Aplicativos Web 💻</li>
       <li>Desarrollo Aplicativos Moviles📱</li>
     </ul>
-    <h1>Lenguajes: 👩‍💻</h1>
+    <div flex justify="between">
+       <h1>Lenguajes: 👩‍💻</h1>
     <ul>
       <li>JavaScript </li>
       <li>Phyton</li>
@@ -36,8 +38,21 @@
       <li>Boostrap</li>
       <li>Laravel</li>
     </ul>
+    <h2>Frameworks:</h2>
+     <ul>
+      <li>React JS</li>
+      <li>Node JS</li>
+      <li>React-Native </li>
+      <li>Tailwind CSS</li>
+      <li>Boostrap</li>
+      <li>Laravel</li>
+    </ul>
+    </div>
+   
   </div>
 </body>
+
+</main>
 
 <!--
 **Sharit-Vargas07/Sharit-Vargas07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
