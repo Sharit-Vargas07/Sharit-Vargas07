@@ -16,55 +16,63 @@
       <li>Planteamiento de Requerimientos 📋</li>
       <li>Creación de Base de Datos 🗃️</li>
       <li>Desarrollo Aplicativos Web 💻</li>
-      <li>Desarrollo Aplicativos Moviles📱</li>
     </ul>
-    <div flex justify="between">
+    <div>
        <h1>Lenguajes: 👩‍💻</h1>
     <ul>
       <li>JavaScript </li>
       <li>Phyton</li>
-      <li>PHP</li>
       <li>SQL</li>
       <li>HTML</li>
       <li>CSS</li>
-      <li>Kotlin</li>
     </ul>
-    <h2>Frameworks:</h2>
+    <h2>Frameworks: ☁️</h2>
      <ul>
       <li>React JS</li>
       <li>Node JS</li>
-      <li>React-Native </li>
       <li>Tailwind CSS</li>
       <li>Boostrap</li>
-      <li>Laravel</li>
+      <li>Selenium</li>
     </ul>
-    <h2>Frameworks:</h2>
+    <h2>Herramientas:</h2>
      <ul>
-      <li>React JS</li>
-      <li>Node JS</li>
-      <li>React-Native </li>
-      <li>Tailwind CSS</li>
-      <li>Boostrap</li>
-      <li>Laravel</li>
+      <li>Figma</li>
+      <li>Discord</li>
+      <li>Canva</li>
+      <li>Notion</li>
+      <li>Pexels</li>
+      <li>Git Hub</li>
+      <li>Visual Studio Code</li>
+      <li>Postman</li>
     </ul>
+      <ul>
+        <h2>Librerías</h2>
+        <li>NextIU</li>
+        <li>FontAwesome</li>
+        <li>Lucide</li>
+        <li>MaterialIcons</li>
+        <li>Echarts</li>
+        <li>Highcharts</li>
+        <li>Axios</li>
+      </ul>
     </div>
-   
+   <div>
+    <h1>Experiencia</h1>
+    <h2>Desarrolladora de Software en el SENA</h2>
+    <p>15-02-2023 - 20-09-2024</p>
+    <ul>
+      <h2>CropLink</h2>
+      <li>Diseño de frontend, estilos y colores</li>
+        <li>Creación del Logo</li>
+        <li>Desarrollo de interfaces de Soporte, Inicio (Dashboard), Cultivos, Costos</li>
+        <li>Generación de PDFs y gráficos</li>
+        <li>Elaboración de carátulas para Manuales</li>
+        <li>Contribución a la documentación del proyecto</li>
+      <li>Descripción de la responsabilidad o proyecto 2.</li>
+    </ul>
+   </div>
   </div>
 </body>
 
 </main>
 
-<!--
-**Sharit-Vargas07/Sharit-Vargas07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
