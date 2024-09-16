@@ -8,7 +8,7 @@
 <body>
   <div>
     <h1>Sobre Mí</h1>
-    <p>Hola, soy Sharit Daniela Vargas Almario, una apasionada estudiante de Análisis y Desarrollo de Software. Mi entusiasmo por la programación me impulsa a aprender y explorar nuevas tecnologías todos los días. Estoy comprometida con el desarrollo de soluciones innovadoras y en constante búsqueda de desafíos que me permitan crecer profesionalmente y expandir mis conocimientos.</p>
+    <p>Soy una apasionada estudiante de Análisis y Desarrollo de Software. Mi entusiasmo por la programación me impulsa a aprender y explorar nuevas tecnologías todos los días. Estoy comprometida con el desarrollo de soluciones innovadoras y en constante búsqueda de desafíos que me permitan crecer profesionalmente y expandir mis conocimientos.</p>
     <hr/>
     <h1>Habilidades</h1>
     <ul>
