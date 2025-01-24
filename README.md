@@ -32,7 +32,6 @@
       <li>Node JS</li>
       <li>Tailwind CSS</li>
       <li>Boostrap</li>
-      <li>Selenium</li>
     </ul>
     <h2>Herramientas:</h2>
      <ul>
@@ -58,21 +57,13 @@
     </div>
    <div>
     <h1>Experiencia</h1>
-    <h2>Desarrolladora de Software en el SENA</h2>
+    <h2>Desarrolladora de Software</h2>
     <p>15-02-2023 - 20-09-2024</p>
     <ul>
       <h2>CropLink</h2>
-      <li>Diseño de frontend, estilos y colores</li>
-        <li>Creación del Logo</li>
-        <li>Desarrollo de interfaces de Soporte, Inicio (Dashboard), Cultivos, Costos</li>
-        <li>Generación de PDFs y gráficos</li>
-        <li>Elaboración de carátulas para Manuales</li>
-        <li>Contribución a la documentación del proyecto</li>
-      <li>Descripción de la responsabilidad o proyecto 2.</li>
     </ul>
    </div>
   </div>
 </body>
-
 </main>
 
