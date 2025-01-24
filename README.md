@@ -20,7 +20,24 @@
     <div>
        <h1>Lenguajes: 👩‍💻</h1>
     <ul>
-      <li>JavaScript </li>
+       <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+       <img alt="css" src="https://img.shields.io/badge/-CSS-2739e3?style=flat-square&logo=css&logoColor=white">
+       <img alt="Javascript" src="https://img.shields.io/badge/-javascript-e4c812?style=flat-square&logo=javascript&logoColor=white">
+       <img alt="Python" src="https://img.shields.io/badge/-phyton-2739e3?style=flat-square&logo=python&logoColor=white">
+       <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white">
+       <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-2739e3?style=flat-square&logo=react&logoColor=white">
+       <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white">
+       <img alt="NodeJs" src="https://img.shields.io/badge/-Nodejs-1a6713?style=flat-square&logo=Node.js&logoColor=white">
+       <img alt="GitHubactions" src="https://img.shields.io/badge/-Github-444444?style=flat-square&logo=github&logoColor=white">
+       <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white">
+       <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
+       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1251db?style=flat-square&logo=mysql&logoColor=white">
+       <img alt="Figma" src="https://img.shields.io/badge/-Figma-c4321c?style=flat-square&logo=figma&logoColor=white">
+       <img alt="Discord" src="https://img.shields.io/badge/-Discord-7953b3?style=flat-square&logo=discord&logoColor=white">
+       <img alt="Canva" src="https://img.shields.io/badge/-Canva-02c2cd?style=flat-square&logo=canva&logoColor=white">
+       <img alt="Notion" src="https://img.shields.io/badge/-Notion-ffffff?style=flat-square&logo=notion&logoColor=black">
+       <img alt="Pexels" src="https://img.shields.io/badge/-Pexels-4ca84c?style=flat-square&logo=pexels&logoColor=white">
+       <img alt="Postman" src="https://img.shields.io/badge/-Postman-e4a124?style=flat-square&logo=postman&logoColor=white">
       <li>Phyton</li>
       <li>SQL</li>
       <li>HTML</li>
@@ -64,6 +81,8 @@
       <h2>TrackProductivo</h2>
     </ul>
    </div>
+    
+![Estadísticas de Akhil en GitHub](https://github-readme-stats.vercel.app/api?username=Sharit-Vargas07&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
   </div>
 </body>
 </main>
