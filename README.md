@@ -47,6 +47,7 @@
        <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
        <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white">
        <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
+       <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
     </ul>
       <h2>Librerías: 📚</h2>
         <ul>
@@ -57,6 +58,10 @@
        <img alt="Axios" src="https://img.shields.io/badge/-Axios-a78df1?style=flat-square&logo=axios&logoColor=white">
        <img alt="FontAwesome" src="https://img.shields.io/badge/-FontAwesome-418fde?style=flat-square&logo=fontawesome&logoColor=white">
        <img alt="NextIu" src="https://img.shields.io/badge/-NextIU-000000?style=flat-square&logo=nextIU&logoColor=white">
+      </ul>
+      <h2>Entre otros: </h2>
+      <ul>
+               <img alt="Ubuntu Server" src="https://img.shields.io/badge/-UbuntuServer-e4a124?style=flat-square&logo=ubuntu&logoColor=white">
       </ul>
     </div>
    <div>
