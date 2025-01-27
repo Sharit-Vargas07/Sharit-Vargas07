@@ -70,7 +70,7 @@
       <h2>CropLink</h2>
       <p>CropLink, aplicativo web diseñado para el monitoreo de actividades dentro de cada cultivo, de cada lote y de cada finca, diseñada especificamente para los administradores y/o dueños de las fincas y empleados encargados de las actividades de cada lote, apta para una o varias fincas, manejo de estadisticas en tiempo real.
       El Backend esta desarrollado en JavaScript, donde se utilizo NodeJS, el Frontend se desarollo con React y AxiosClient, y para la BD se uso el gestor de bases de datos MySQL</p>
-      <a href="">Ver Proyecto</a>
+      <a href="https://github.com/karenviviana1234/CropFronend.git">Ver Proyecto</a>
       <h2>TrackProductivo</h2>
          <p>TrackProductivo, aplicativo web y movil diseñado para el seguimiento de la etapa productiva de los aprendices del SENA,  diseñada especificamente para los aprendices, instructores de seguimiento, revisor de seguimientos y/o coordinador, manejo de estadisticas en tiempo real.
       El Backend esta desarrollado en JavaScript, donde se utilizo NodeJS, el Frontend se desarollo con React, React-Native y AxiosClient, y para la BD se uso el gestor de bases de datos MySQL</p>
