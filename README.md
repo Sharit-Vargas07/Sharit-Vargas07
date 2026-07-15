@@ -2,7 +2,7 @@
   <header align="center">
   <h1 align="center">¡Hola! Soy Sharit, una apasionada desarrolladora de software.</h1>
   <p align="center" >Explora mis proyectos y colaboremos juntos.</p>
-  <img src="https://github.com/user-attachments/assets/6755a96f-767f-4cfe-8457-4bb284606ad8">
+  <img width="1600" height="533" alt="WhatsApp Image 2026-07-15 at 3 03 33 PM" src="https://github.com/user-attachments/assets/ab516bee-37ac-4abb-9f3a-6b225666c3c9" />
 </header>
 
 <body>
