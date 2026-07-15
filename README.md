@@ -1,25 +1,25 @@
 <main background="#43257e">
   <header align="center">
-  <h1 align="center">¡Hola! Soy Sharit, una apasionada desarrolladora de software.</h1>
-  <p align="center" >Explora mis proyectos y colaboremos juntos.</p>
+  <h1 align="center">Hi! I'm Sharit, a software developer and Systems Engineering student.</h1>
+  <p align="center" >Explore my projects and let's collaborate.</p>
   <img width="1600" height="533" alt="WhatsApp Image 2026-07-15 at 3 03 33 PM" src="https://github.com/user-attachments/assets/ab516bee-37ac-4abb-9f3a-6b225666c3c9" />
 </header>
 
 <body>
   <div>
-    <h1>Sobre Mí</h1>
-    <p>Soy una apasionada estudiante de Análisis y Desarrollo de Software. Mi entusiasmo por la programación me impulsa a aprender y explorar nuevas tecnologías todos los días. Estoy comprometida con el desarrollo de soluciones innovadoras y en constante búsqueda de desafíos que me permitan crecer profesionalmente y expandir mis conocimientos.</p>
+    <h1>About Me</h1>
+    <p>I am a Systems Technician and a Software Analysis and Development Technologist, currently pursuing a degree in Systems Engineering. Passionate about software development, I enjoy transforming ideas into functional solutions through programming. I am motivated to learn new technologies, take on challenges, and continuously improve my skills to develop innovative, efficient, and impactful applications..</p>
     <hr/>
-    <h1>Habilidades</h1>
+    <h1>Skills</h1>
     <ul>
-      <li>Diseño de Mockups 📍</li>
-      <li>Planteamiento de Requerimientos 📋</li>
-      <li>Creación de Base de Datos 🗃️</li>
-      <li>Desarrollo Aplicativos Web 💻</li>
+      <li>Mockups Design 📍</li>
+      <li>Requirement Definition  📋</li>
+      <li>Data Base Creation 🗃️</li>
+      <li>Web Application Development 💻</li>
     </ul>
     <div>
-      <h1>Conocimiento y Utilidades</h1>
-       <h2>Lenguajes: 👩‍💻</h2>
+      <h1>Knowledge and Uses</h1>
+       <h2>Lenguages: 👩‍💻</h2>
     <ul>
        <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
        <img alt="Javascript" src="https://img.shields.io/badge/-javascript-e4c812?style=flat-square&logo=javascript&logoColor=white">
@@ -35,7 +35,7 @@
         <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white">
        <img alt="NodeJs" src="https://img.shields.io/badge/-Nodejs-1a6713?style=flat-square&logo=Node.js&logoColor=white">
     </ul>
-    <h2>Herramientas: 🛠</h2>
+    <h2>Tools: 🛠</h2>
      <ul>
         <img alt="GitHub" src="https://img.shields.io/badge/-Github-444444?style=flat-square&logo=github&logoColor=white">
        <img alt="Figma" src="https://img.shields.io/badge/-Figma-c4321c?style=flat-square&logo=figma&logoColor=white">
@@ -49,7 +49,7 @@
        <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
        <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
     </ul>
-      <h2>Librerías: 📚</h2>
+      <h2>BookStores: 📚</h2>
         <ul>
        <img alt="Lucide" src="https://img.shields.io/badge/-Lucide-f46565?style=flat-square&logo=lucide&logoColor=white">
        <img alt="MaterialIU" src="https://img.shields.io/badge/-MaterialIU-007fff?style=flat-square&logo=materialiu&logoColor=white">
@@ -59,17 +59,27 @@
        <img alt="FontAwesome" src="https://img.shields.io/badge/-FontAwesome-418fde?style=flat-square&logo=fontawesome&logoColor=white">
        <img alt="NextIu" src="https://img.shields.io/badge/-NextIU-000000?style=flat-square&logo=nextIU&logoColor=white">
       </ul>
-      <h2>Entre otros: </h2>
+      <h2>Inter Alia: </h2>
       <ul>
                <img alt="Ubuntu Server" src="https://img.shields.io/badge/-UbuntuServer-e4a124?style=flat-square&logo=ubuntu&logoColor=white">
       </ul>
     </div>
    <div>
-    <h1>Experiencia</h1>
+    <h1>Experiencie</h1>
     <ul>
-      <h2>CropLink</h2>
-      <p>CropLink, aplicativo web diseñado para el monitoreo de actividades dentro de cada cultivo, de cada lote y de cada finca, diseñada especificamente para los administradores y/o dueños de las fincas y empleados encargados de las actividades de cada lote, apta para una o varias fincas, manejo de estadisticas en tiempo real.
-      El Backend esta desarrollado en JavaScript, donde se utilizo NodeJS, el Frontend se desarollo con React y AxiosClient, y para la BD se uso el gestor de bases de datos MySQL</p>
+      <h2>CropLink 🌱</h2>
+      <ul>
+      <img width="1918" height="908" alt="image" src="https://github.com/user-attachments/assets/14f020b6-47af-42bb-b945-07704be22aeb" />
+        </ul>
+      <p>
+        <h3>Digital Agriculture Web Application | Full-Stack Development (SENA) </h3>
+        Design and development of a modular web platform for the real-time monitoring, maintenance, and management of agricultural activities across farms, plots, and multiple crop types.
+        <h3>Architecture and Technologies:</h3> 
+          Implementation of a decoupled architecture using JavaScript with Node.js for backend logic (REST API) and React with AxiosClient for the frontend. Data storage and persistence managed via the MySQL relational engine. 
+          <h3> Key Modules: </h3>  
+          Integration of a user management module (administrators, owners, and employees), generation of statistical performance reports, and real-time geographic map visualization. 
+          <h3> Configuration Management and Version Control:  </h3>  
+        Project structuring on GitHub using independent repositories (Frontend/Backend) following the Git Flow methodology (protected master branch, development branch as the stable system root, and individual developer branches), ensuring maximum code security and team organization.</p>
       <a href="https://github.com/karenviviana1234/CropFronend.git">Ver Proyecto</a>
       <h2>TrackProductivo</h2>
          <p>TrackProductivo, aplicativo web y movil diseñado para el seguimiento de la etapa productiva de los aprendices del SENA,  diseñada especificamente para los aprendices, instructores de seguimiento, revisor de seguimientos y/o coordinador, manejo de estadisticas en tiempo real.
