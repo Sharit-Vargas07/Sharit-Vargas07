@@ -80,9 +80,10 @@
           Integration of a user management module (administrators, owners, and employees), generation of statistical performance reports, and real-time geographic map visualization. 
           <h3> Configuration Management and Version Control:  </h3>  
         Project structuring on GitHub using independent repositories (Frontend/Backend) following the Git Flow methodology (protected master branch, development branch as the stable system root, and individual developer branches), ensuring maximum code security and team organization.</p>
-      <a href="https://github.com/karenviviana1234/CropFronend.git">Ver Proyecto</a>
+      <a href="https://github.com/Sharit-Vargas07/CropLink-Backend.git">Backend</a>
+      <a href="https://github.com/Sharit-Vargas07/CropLink-Frontend.git">Frontend</a>
       <h2>TrackProductivo</h2>
-         <p>TrackProductivo, aplicativo web y movil diseñado para el seguimiento de la etapa productiva de los aprendices del SENA,  diseñada especificamente para los aprendices, instructores de seguimiento, revisor de seguimientos y/o coordinador, manejo de estadisticas en tiempo real.
+         <p>Aplicativo web y movil diseñado para el seguimiento de la etapa productiva de los aprendices del SENA,  diseñada especificamente para los aprendices, instructores de seguimiento, revisor de seguimientos y/o coordinador, manejo de estadisticas en tiempo real.
       El Backend esta desarrollado en JavaScript, donde se utilizo NodeJS, el Frontend se desarollo con React, React-Native y AxiosClient, y para la BD se uso el gestor de bases de datos MySQL</p>
       <a href="">Ver Proyecto</a>
     </ul>
