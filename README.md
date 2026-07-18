@@ -1,4 +1,3 @@
-<main background="#43257e">
   <header align="center">
   <h1 align="center">Hi! I'm Sharit, a software developer and Systems Engineering student.</h1>
   <p align="center" >Explore my projects and let's collaborate.</p>
@@ -82,10 +81,24 @@
         Project structuring on GitHub using independent repositories (Frontend/Backend) following the Git Flow methodology (protected master branch, development branch as the stable system root, and individual developer branches), ensuring maximum code security and team organization.</p>
       <a href="https://github.com/Sharit-Vargas07/CropLink-Backend.git">Backend</a>
       <a href="https://github.com/Sharit-Vargas07/CropLink-Frontend.git">Frontend</a>
-      <h2>TrackProductivo</h2>
-         <p>Aplicativo web y movil diseñado para el seguimiento de la etapa productiva de los aprendices del SENA,  diseñada especificamente para los aprendices, instructores de seguimiento, revisor de seguimientos y/o coordinador, manejo de estadisticas en tiempo real.
-      El Backend esta desarrollado en JavaScript, donde se utilizo NodeJS, el Frontend se desarollo con React, React-Native y AxiosClient, y para la BD se uso el gestor de bases de datos MySQL</p>
-      <a href="">Ver Proyecto</a>
+      <h2>⚙️ TrackProductivo</h2>
+     <ul>
+  <img width="1914" height="893" alt="Captura de pantalla 2026-07-16 140931" src="https://github.com/user-attachments/assets/73f92943-ce72-40a1-86ea-4f7a7be9e72f" />
+</ul>
+  <p>
+  <h3>SENA Productive Stage Tracking App | Full-Stack Web & Mobile Development (SENA)</h3>
+  Design and development of a multi-platform web and mobile application designed to monitor and track the productive stage of SENA apprentices, tailored specifically for apprentices, tracking instructors, reviewers, and coordinators, featuring real-time statistics management.
+
+  <h3>Architecture and Technologies:</h3> 
+  Implementation of an architecture managed within a single repository (monorepo structure) using JavaScript with Node.js for backend logic, and React, React Native, and AxiosClient for the web and mobile frontends. Data storage and persistence are handled via the MySQL relational database engine.
+
+  <h3>Key Modules:</h3>  
+  Integration of customized role-based interfaces (apprentices, tracking instructors, reviewers, and coordinators), a progress monitoring system for the productive stage, and a real-time statistical dashboard.
+
+  <h3>Configuration Management and Version Control:</h3>  
+  Project structuring on GitHub using a single, unified repository (Frontend/Backend) following the Git Flow methodology (protected main branch, development branch as the stable system root, and individual developer branches), ensuring seamless integration, streamlined deployment, and collaborative security.
+</p>
+      <a href="https://github.com/Sharit-Vargas07/TrackProductivo.git">View Project</a>
     </ul>
    </div>
     
