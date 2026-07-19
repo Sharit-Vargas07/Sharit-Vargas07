@@ -17,51 +17,12 @@
       <li>Web Application Development 💻</li>
     </ul>
     <div>
-      <h1>Knowledge and Uses</h1>
-       <h2>Lenguages: 👩‍💻</h2>
-    <ul>
-       <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-       <img alt="Javascript" src="https://img.shields.io/badge/-javascript-e4c812?style=flat-square&logo=javascript&logoColor=white">
-       <img alt="Python" src="https://img.shields.io/badge/-phyton-2739e3?style=flat-square&logo=python&logoColor=white">
-       <img alt="Php" src="https://img.shields.io/badge/-Php-7278a7?style=flat-square&logo=php&logoColor=white">
-       <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-1251db?style=flat-square&logo=mysql&logoColor=white">
-    </ul>
-    <h2>Frameworks: ☁️</h2>
-     <ul>
-       <img alt="css" src="https://img.shields.io/badge/-CSS-2739e3?style=flat-square&logo=css&logoColor=white">
-       <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white">
-       <img alt="TailwindCss" src="https://img.shields.io/badge/-TailwindCss-2739e3?style=flat-square&logo=react&logoColor=white">
-        <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white">
-       <img alt="NodeJs" src="https://img.shields.io/badge/-Nodejs-1a6713?style=flat-square&logo=Node.js&logoColor=white">
-    </ul>
-    <h2>Tools: 🛠</h2>
-     <ul>
-        <img alt="GitHub" src="https://img.shields.io/badge/-Github-444444?style=flat-square&logo=github&logoColor=white">
-       <img alt="Figma" src="https://img.shields.io/badge/-Figma-c4321c?style=flat-square&logo=figma&logoColor=white">
-       <img alt="Discord" src="https://img.shields.io/badge/-Discord-7953b3?style=flat-square&logo=discord&logoColor=white">
-       <img alt="Canva" src="https://img.shields.io/badge/-Canva-02c2cd?style=flat-square&logo=canva&logoColor=white">
-       <img alt="Notion" src="https://img.shields.io/badge/-Notion-ffffff?style=flat-square&logo=notion&logoColor=black">
-       <img alt="Pexels" src="https://img.shields.io/badge/-Pexels-4ca84c?style=flat-square&logo=pexels&logoColor=white">
-       <img alt="Postman" src="https://img.shields.io/badge/-Postman-e4a124?style=flat-square&logo=postman&logoColor=white">
-       <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
-       <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white">
-       <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
-       <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
-    </ul>
-      <h2>BookStores: 📚</h2>
-        <ul>
-       <img alt="Lucide" src="https://img.shields.io/badge/-Lucide-f46565?style=flat-square&logo=lucide&logoColor=white">
-       <img alt="MaterialIU" src="https://img.shields.io/badge/-MaterialIU-007fff?style=flat-square&logo=materialiu&logoColor=white">
-       <img alt="Echarts" src="https://img.shields.io/badge/-Echarts-be5d75?style=flat-square&logo=echarts&logoColor=white">
-       <img alt="Highcharts" src="https://img.shields.io/badge/-Highcharts-8085e7?style=flat-square&logo=highcharts&logoColor=white">
-       <img alt="Axios" src="https://img.shields.io/badge/-Axios-a78df1?style=flat-square&logo=axios&logoColor=white">
-       <img alt="FontAwesome" src="https://img.shields.io/badge/-FontAwesome-418fde?style=flat-square&logo=fontawesome&logoColor=white">
-       <img alt="NextIu" src="https://img.shields.io/badge/-NextIU-000000?style=flat-square&logo=nextIU&logoColor=white">
-      </ul>
-      <h2>Inter Alia: </h2>
-      <ul>
-               <img alt="Ubuntu Server" src="https://img.shields.io/badge/-UbuntuServer-e4a124?style=flat-square&logo=ubuntu&logoColor=white">
-      </ul>
+      <h1>Known technologies</h1>
+   <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,git,github,mysql,mongodb,androidstudio,vscode,html,css,js,nodejs,php,py,react,vite,materialui,tailwind,bootstrap,postman,discord,notion,figma&perline=14" />
+  </a>
+</p>
     </div>
    <div>
     <h1>Experiencie</h1>
@@ -103,6 +64,34 @@
    </div>
     
 ![Estadísticas de Akhil en GitHub](https://github-readme-stats.vercel.app/api?username=Sharit-Vargas07&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/1010nishant/" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+</a>
+<a href="https://twitter.com/1010nishant" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
+</a> 
+<a href="https://www.instagram.com/nishant.jangir.1010/" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
+</a>
+<a href="https://1010nishant.hashnode.dev/" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" />
+</a>
+<a href="https://discordapp.com/users/957722095381540874" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
+</a>
+  
+</p>
   </div>
 </body>
 </main>
